@@ -1,20 +1,5 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+主要功能：
 
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/e1e2acc8-fce5-48b4-9452-de53dfa58cf0
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+动画拆字：实时演示汉字拆解过程，笔画飞入对应键位，直观理解字根构成。
+公式、口诀助记：提供详细的拆解公式与五笔口诀，强化记忆，降低学习门槛。
+支持调速：自由调节动画播放速度（1x-5x），适应不同阶段的学习节奏。
